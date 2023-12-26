@@ -1,0 +1,10 @@
+This folder contains French input dataset used to generate results in the article : Greenhouse Gas Emission Reduction System in Photovoltaic Nanogrid with Battery and Thermal Storage Reservoirs (https://doi.org/10.1016/j.jclepro.2021.127347)
+
+co2.csv:
+this file contains the grid CO2 load during 31 days (+1 day of forecast), uses g eq. CO2 /kWh as units and 1 min per point as resolution.
+
+demand.csv:
+this file contains the appliances demand during 31 days (+1 day of forecast), uses kW as units and 1 min per point as resolution.
+
+pv.csv:
+this file contains the PV production during 31 days (+1 day of forecast), uses kW as units and 1 min per point as resolution.
